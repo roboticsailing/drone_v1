@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="82.62mm" height="51.620000000000005mm" viewBox="0 0 82.62 51.620000000000005" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Common_cs" transform="translate(-167.190000,111.810000) scale(1,-1)">
+<path id="Common_cs_w0000"  d="M 236.0 61.0 L 168.0 61.0 L 168.0 111.00000000000001 L 236.0 111.0 A 13 13 0 0 0 249 98L 249.0 74.0 A 13 13 0 0 0 236 61" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="177.0" cy="71.0" r="0.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="204.5" cy="71.0" r="0.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="232.0" cy="71.0" r="0.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<path id="Common_cs_w0004"  d="M 231.0 94.5 L 178.0 94.5 L 178.0 77.5 L 231.0 77.5 L 231.0 94.5 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="177.0" cy="101.0" r="0.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="204.5" cy="101.0" r="0.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="232.0" cy="101.0" r="0.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'inner_frame_cs'</title>
+</g>
+</svg>
